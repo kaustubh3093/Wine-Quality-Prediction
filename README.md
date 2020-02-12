@@ -7,6 +7,7 @@ No of instance: 4898
 
  Input variables (based on physicochemical tests):
    1 - fixed acidity
+   
    2 - volatile acidity
    3 - citric acid
    4 - residual sugar
