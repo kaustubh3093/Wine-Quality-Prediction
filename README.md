@@ -22,3 +22,10 @@ No of instance: 4898
 Output variable (based on sensory data): 
 
    12 - quality (score between 0 and 10)
+
+Final Result:
+We comapared the result and based on the predicted accuracy and average mean of the k fold cross validation we can say that Random Forest Classification was the best ML algorithm among all the applied one in this project. When training, each tree in a random forest learns from a random sample of the data points. The samples are drawn with replacement, known as bootstrapping which allows random forest to predict with the very good accuracy (As it predict on the majority vote from the n number of trees generated).
+
+Instruction to Run:
+Paste the dataset and code in the same directory and change the address of dataset in the code as per your location
+Compile the python file: Jupyter or terminal
