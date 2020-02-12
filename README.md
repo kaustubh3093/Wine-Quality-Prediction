@@ -6,6 +6,7 @@ These datasets can be viewed as classification or regression tasks. The classes 
 No of instance: 4898
 
  Input variables (based on physicochemical tests):
+ 
    1 - fixed acidity
    2 - volatile acidity
    3 - citric acid
@@ -17,5 +18,7 @@ No of instance: 4898
    9 - pH
    10 - sulphates
    11 - alcohol
+   
 Output variable (based on sensory data): 
+
    12 - quality (score between 0 and 10)
